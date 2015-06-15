@@ -13,28 +13,22 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Text for slide 2
-2nd line of text
+Text for slide 2-TEST
 
 --- .class #id 
 
 ## Slide 3
 
 Text for slide 3
-2nd line of text
 
 --- .class #id 
 
 ## Slide 4
 
 Text for slide 4
-2nd line of text
 
 --- .class #id 
 
 ## Slide 5
 
 Text for slide 5
-There is no 2nd line of text
-
-

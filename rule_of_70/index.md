@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Text for slide 2
+Text for slide 2-TEST
 
 --- .class #id 
 
@@ -32,5 +32,3 @@ Text for slide 4
 ## Slide 5
 
 Text for slide 5
-
-
